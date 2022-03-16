@@ -11,7 +11,7 @@ function Navbar() {
                     <a href="https://github.com/WillJR183/ds-movie">
                         <div className="dsmovie-contact-container">
                             <GithubIcon />
-                            <p className="ds-movie-contact-link">/devsuperior</p>
+                            <p className="ds-movie-contact-link"> / WillJR183</p>
                         </div>
                     </a>
                 </div>
